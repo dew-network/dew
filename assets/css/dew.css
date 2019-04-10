@@ -1,0 +1,24 @@
+.navbar {
+  background: #8ec0f8;
+}
+
+.dew-nav-item {
+  background: #ffffff;
+  border-radius: none;
+}
+
+.dew-rad-left {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-right: 0;
+}
+
+.dew-rad-right {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-left: 1px solid rgba(0,0,0,.2);
+}
+
+.dew-nav-item > .nav-link {
+  color: #666;
+}
